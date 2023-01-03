@@ -1,0 +1,22 @@
+{
+  "name": "graphql-subscriptions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.3.0",
+    "@graphql-tools/schema": "^9.0.12",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "graphql": "^16.6.0",
+    "graphql-ws": "^5.11.2",
+    "ws": "^8.11.0"
+  },
+  "type": "module"
+}
